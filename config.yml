@@ -1,0 +1,10 @@
+title: lavasnailgames.com
+
+logo:
+show_downloads: false
+google_analytics:
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-redirect-from
